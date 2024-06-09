@@ -75,6 +75,10 @@ Com base em referências de um âmbito de desenvolvimento integrado e eficiente,
 
 Como na facilitação do cronograma estabelecido, de concessões pontuais em cada fase do projeto, gerindo vistorias de mudanças, garantindo que todas as questões técnicas de transferência e do cronograma sejam abordadas e compreendidas pela equipe do projeto e instituições colaborativas. 
 
+Nós como desenvolvedores temos como meta estabelecer o desenvolvimento de soluções que  busca auxiliar os professores no ensino de forma mais atrativa, cooperando com temáticas de suma importância para as aulas tornado-as mais eficazes. 
+
+Conforme a equipe aprende através de pesquisas, também é possível fazer leituras de cenários mais complexos, prever transformações no ensino e assim agir de forma proativa para manter a competitividade e a diferença de outras plataformas de ensino. 
+
 # 3. METODOLOGIA DE PROJETO 
 ## 3.1	Estrutura do Projeto 
 - Gerente de Projeto  
@@ -90,78 +94,49 @@ Como na facilitação do cronograma estabelecido, de concessões pontuais em cad
 | Equipe de Testes | Realizações de testes e garantia de qualidade|
 
 ## 3.3 Fases, Atividades e Cronograma 
-**Fase I: Especificação – Janeiro/Fevereiro:**  
+**Fase I: Backlog do Produto – Junho:**  
 Atividades: 
-- Definição detalhada dos requisitos do sistema. 
-- Reuniões com stakeholders para levantamento de necessidades e expectativas. 
-- Elaboração de documentos de requisitos e especificações técnicas.
+- Identificar suas funcionalidades. 
+- Priorização e desmembramento em tarefas. 
+- Estimativa de esforço 
   
-**Cronograma:** 
-- 1ª semana de Janeiro: Início do levantamento de requisitos. 
-- 2ª a 4ª semana de Janeiro: Reuniões com stakeholders e análise das informações coletadas. 
-- 1ª a 3ª semana de Fevereiro: Elaboração e revisão dos documentos de requisitos e especificações. 
-- Última semana de Fevereiro: Validação e aprovação dos documentos. 
+**Fase II: Especificação de Requisitos– Junho:**
+- Requisitos funcionais. 
+- Requisitos não funcionais. 
+- Regras de Negócio. 
+
+**Fase III: Inspeção – Junho:**
+- Revisão de documentos. 
+- Revisão em conjunto. 
+- Identificação de erros.   
+
+**Fase IV: Modelagem e Arquitetura – Julho:**
+- Modelagem de Domínio. 
+- Definição da Arquitetura. 
+- Diagrama de classes e componentes. 
   
-**Fase II: Inspeção – Março/Abril:**
-- Revisão dos documentos de requisitos e especificações. 
-- Identificação de possíveis inconsistências e lacunas. 
-- Ajustes e melhorias nas especificações conforme feedback recebido.
+**Fase V: Desing de Interface – Julho **
+- Esboços das interfaces principais. 
+- Protótipos. 
+- Teste de usabilidade. 
+- Design visual. 
+ 
+**Fase VI: Conclusão – Julho **
+- Testes finais. 
+- Documentação. 
+- Entrega. 
+- Avaliação. 
   
-**Cronograma:** 
-- 1ª e 2ª semana de Março: Revisão inicial dos documentos. 
-- 3ª e 4ª semana de Março: Identificação de inconsistências e lacunas. 
-- 1ª a 3ª semana de Abril: Ajustes e melhorias conforme feedback. 
-- Última semana de Abril: Aprovação final dos documentos ajustados. 
-  
-**Fase III: Projeto e Arquitetura – Maio/Junho:**
-- Desenvolvimento da arquitetura do sistema. 
-- Criação dos diagramas de arquitetura (fluxo de dados, componentes e etc.). 
-- Definição das tecnologias e ferramentas a serem utilizadas.
-  
-**Cronograma:** 
-- 1ª a 3ª semana de Maio: Desenvolvimento inicial da arquitetura do sistema. 
-- 4ª semana de Maio: Revisão e ajuste da arquitetura. 
-- 1ª a 3ª semana de Junho: Criação dos diagramas de arquitetura e definição das tecnologias. 
-- Última semana de Junho: Aprovação da arquitetura final. 
-  
-**Fase IV: Prototipagem e Refinamento – Julho:**
-- Criar um protótipo funcional do sistema. 
-- Realizar testes de usabilidade com um grupo restrito de usuários. 
-- Refinar funcionalidades com base no feedback inicial.
-  
-**Cronograma:** 
-- 1ª a 2ª semana de Julho: Desenvolvimento dos protótipos. 
-- 3ª semana de Julho: Testes iniciais com usuários e coleta de feedback. 
-- Última semana de Julho: Refinamento dos protótipos com base no feedback. 
-  
-**Fase V: Prototipagem e Refinamento – Agosto:**
-- Continuar o refinamento do protótipo com base em feedback contínuo. 
-- Preparar o sistema para testes em uma escala maior. 
-- Garantir a integração completa de todas as funcionalidades.
-  
-**Cronograma:**
-- 1ª a 3ª semana de Agosto: Desenvolvimento das funcionalidades completas. 
-- 4ª semana de Agosto: Realização de testes unitários e integrados. 
-- Última semana de Agosto: Correção de bugs e melhorias. 
-  
-**Fase VI: Encerramento – Setembro**
-- Finalizar todas as atividades de desenvolvimento e testes. 
-- Realizar o lançamento oficial do sistema. 
-- Transferir o conhecimento e preparar para o suporte contínuo.
-  
-**Cronograma:** 
-- 1ª a 2ª semana de Setembro: Realização dos testes finais de aceitação. 
-- 3ª semana de Setembro: Documentação final do projeto. 
-- 4ª semana de Setembro: Treinamento para os usuários finais e entrega oficial do projeto. 
 
 ## 3.4 Entregas de cada Fase 
 | Fase  | Mês | Entregável |
 | ----- | --- | ---------- |
-| I. Especificação | Janeiro/Fevereiro  | |
-| II. Inspeção | Março/Abril  | |
-| III. Projeto e Arquitetura| Maio/Junho: | |
-| IV. Prototipagem e Refinamento | Julho  | |
-| V. Encerramento | Setembro | |
+| I. Backlog do Produto  | Junho  | |
+| II.Especificação de Requisitos | Junho   | |
+| III. Inspeção | Junho  | |
+| IV. Modelagem e Arquitetura  | Julho  | |
+| V. Design de Interface  | Julho  | |
+| VI. Conlusão | Julho | |
 
 ## 3.5 Controle de Mudanças 
 O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:  
