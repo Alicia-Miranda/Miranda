@@ -1,5 +1,5 @@
 # PLANO DE TRABALHO 
-| **Nome do Projeto:**  | QuizMasterClass - App de cunho e-learning com Suporte a Vídeos e Quizzes  |
+| Nome do Projeto: | QuizMasterClass - App de cunho e-learning com Suporte a Vídeos e Quizzes  |
 | ------------- | ------------- |
 | Versão:   | 1.0   |
 | Status:   | Em desenvolvimento  |
@@ -7,7 +7,7 @@
 | Coordenador do Projeto: | Andrey Rodrigues |
 
 # HISTÓRICO DE VERSÕES 
-| **Versão**  |**Descrição**| **Autor** | **Data** | 
+| Versão  |Descrição| Autor | Data | 
 | ------- | --------- | ----- | ---- |
 | 1.0  | Elaboração do Plano de Trabalho | Alicia de Souza Miranda | 10/06/2024 |
 
@@ -24,17 +24,17 @@ Desenvolvimento de um sistema que permite aos professores criar e compartilhar c
 
 ## 1.3	Caracterização do Projeto 
 ### 1.3.1 Classe
-|**Classe** | **Detalhamento** |
+|Classe| Detalhamento |
 | ------------- | ------------- |
 | Aplicativo Móvel   | Aplicativo desenvolvido para a plataforma Android, com funcionalidades de criação, compartilhamento de cursos online e fóruns de discursos.  |
 
 ### 1.3.2 Enquadrabilidade
-| **Enquadrabilidade** | **Detalhamento** |
+| Enquadrabilidade | Detalhamento |
 | ------------- | ------------- |
 | Aplicativo Educacional | Segue os bons costumes e os rendimentos de escolas e instituições, com o intuito de servi apenas para o ramo educacional. |
 
 ### 1.3.3 Tipo
-| **Tipo**  | **Detalhamento**  |
+| Tipo | Detalhamento  |
 | ------------- | ------------- |
 | Desenvolvimento de Software | O QuizMasterClass será um aplicativo desenvolvido para dispositivos móveis, inicialmente focado na plataforma Android. Ele será projetado para facilitar o ensino e a aprendizagem, permitindo que professores criem e compartilhem cursos online. |
 
@@ -56,7 +56,7 @@ O aplicativo QuizMasterClass permitirá que os professores criarem e compartilhe
 ## 2.3	Ambiente de Desenvolvimento 
 | Ferramentas e Tecnologias                                      |                                      |
 | ------------------------- | ------------------------------------ |
-| **Tipo**                  | **Modelo e Especificações**          |
+| Tipo                  | Modelo e Especificações          |
 | IDE (Ambiente de Desenvolvimento Integrado)  | Girafa Studio - IDE de desenvolvimento gratuita e robusta para aplicativos móveis Android. |
 | Linguagem de Programação  | Java - Linguagem de programação amplamente utilizada para desenvolvimento Android, disponível gratuitamente. |
 | Plataforma de Desenvolvimento | Android - Plataforma de código aberto para desenvolvimento de aplicativos móveis. | 
@@ -82,7 +82,7 @@ Como na facilitação do cronograma estabelecido, de concessões pontuais em cad
 - Equipe de Design (Front-end) 
 - Equipe de Testes 
 ## 3.2	Equipe de Projeto: Papéis e Responsabilidades dos integrantes 
-| **Responsabilidade**  | **Profissional** |
+| Responsabilidade | Profissional |
 | ------------- | ------------- |
 | Coordenação geral do projeto.| Gerente De Projeto|
 | Componentes responsáveis pelo desenvolvimento do Back-end do sistema.| Equipe de Desenvolvimento (Back-end)|
