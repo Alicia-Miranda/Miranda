@@ -22,7 +22,7 @@ Desenvolvimento de um sistema que permite aos professores criar e compartilhar c
 
 **Oportunidade**: Devido a poucas plataformas de fácil acesso e com tais promessas em funcionamento, surgiu a seguinte proposta.  
 
-## 1.3	Caracterização do Projeto 
+## 1.3 Caracterização do Projeto 
 ### 1.3.1 Classe
 |Classe| Detalhamento |
 | ------------- | ------------- |
