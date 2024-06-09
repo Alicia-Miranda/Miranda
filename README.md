@@ -9,7 +9,7 @@
 # HISTÓRICO DE VERSÕES 
 | **Versão**  |**Descrição**| **Autor** | **Data** | 
 | ------- | --------- | ----- | ---- |
-| 1.0  | Elaboração do Plano de Trabalho |  |  |
+| 1.0  | Elaboração do Plano de Trabalho | Alicia de Souza Miranda | 10/06/2024 |
 
 # 1. INTRODUÇÃO 
 ## 1.1 Objeto 
@@ -96,30 +96,63 @@ Atividades:
 - Reuniões com stakeholders para levantamento de necessidades e expectativas. 
 - Elaboração de documentos de requisitos e especificações técnicas.
   
+**Cronograma:** 
+- 1ª semana de Janeiro: Início do levantamento de requisitos. 
+- 2ª a 4ª semana de Janeiro: Reuniões com stakeholders e análise das informações coletadas. 
+- 1ª a 3ª semana de Fevereiro: Elaboração e revisão dos documentos de requisitos e especificações. 
+- Última semana de Fevereiro: Validação e aprovação dos documentos. 
+  
 **Fase II: Inspeção – Março/Abril:**
 - Revisão dos documentos de requisitos e especificações. 
 - Identificação de possíveis inconsistências e lacunas. 
 - Ajustes e melhorias nas especificações conforme feedback recebido.
+  
+**Cronograma:** 
+- 1ª e 2ª semana de Março: Revisão inicial dos documentos. 
+- 3ª e 4ª semana de Março: Identificação de inconsistências e lacunas. 
+- 1ª a 3ª semana de Abril: Ajustes e melhorias conforme feedback. 
+- Última semana de Abril: Aprovação final dos documentos ajustados. 
   
 **Fase III: Projeto e Arquitetura – Maio/Junho:**
 - Desenvolvimento da arquitetura do sistema. 
 - Criação dos diagramas de arquitetura (fluxo de dados, componentes e etc.). 
 - Definição das tecnologias e ferramentas a serem utilizadas.
   
+**Cronograma:** 
+- 1ª a 3ª semana de Maio: Desenvolvimento inicial da arquitetura do sistema. 
+- 4ª semana de Maio: Revisão e ajuste da arquitetura. 
+- 1ª a 3ª semana de Junho: Criação dos diagramas de arquitetura e definição das tecnologias. 
+- Última semana de Junho: Aprovação da arquitetura final. 
+  
 **Fase IV: Prototipagem e Refinamento – Julho:**
 - Criar um protótipo funcional do sistema. 
 - Realizar testes de usabilidade com um grupo restrito de usuários. 
 - Refinar funcionalidades com base no feedback inicial.
+  
+**Cronograma:** 
+- 1ª a 2ª semana de Julho: Desenvolvimento dos protótipos. 
+- 3ª semana de Julho: Testes iniciais com usuários e coleta de feedback. 
+- Última semana de Julho: Refinamento dos protótipos com base no feedback. 
   
 **Fase V: Prototipagem e Refinamento – Agosto:**
 - Continuar o refinamento do protótipo com base em feedback contínuo. 
 - Preparar o sistema para testes em uma escala maior. 
 - Garantir a integração completa de todas as funcionalidades.
   
+**Cronograma:**
+- 1ª a 3ª semana de Agosto: Desenvolvimento das funcionalidades completas. 
+- 4ª semana de Agosto: Realização de testes unitários e integrados. 
+- Última semana de Agosto: Correção de bugs e melhorias. 
+  
 **Fase VI: Encerramento – Setembro**
 - Finalizar todas as atividades de desenvolvimento e testes. 
 - Realizar o lançamento oficial do sistema. 
-- Transferir o conhecimento e preparar para o suporte contínuo.     
+- Transferir o conhecimento e preparar para o suporte contínuo.
+  
+**Cronograma:** 
+- 1ª a 2ª semana de Setembro: Realização dos testes finais de aceitação. 
+- 3ª semana de Setembro: Documentação final do projeto. 
+- 4ª semana de Setembro: Treinamento para os usuários finais e entrega oficial do projeto. 
 
 ## 3.4 Entregas de cada Fase 
 | Fase  | Mês | Entregável |
@@ -139,32 +172,4 @@ O monitoramento e controle do escopo do projeto serão realizados a partir das s
 - Nenhum trabalho fora do escopo do projeto deve ser feito. 
 - Solicitações de mudança no escopo do projeto devem ser efetivamente comunicadas e compreendidas.  
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
