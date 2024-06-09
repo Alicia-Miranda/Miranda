@@ -157,11 +157,11 @@ Atividades:
 ## 3.4 Entregas de cada Fase 
 | Fase  | Mês | Entregável |
 | ----- | --- | ---------- |
-| I. Especificação | | |
-| II. Inspeção | | |
-| III. Projeto e Arquitetura| | |
-| IV. Prototipagem e Refinamento | | |
-| V. Encerramento | | |
+| I. Especificação | Janeiro/Fevereiro  | |
+| II. Inspeção | Março/Abril  | |
+| III. Projeto e Arquitetura| Maio/Junho: | |
+| IV. Prototipagem e Refinamento | Julho  | |
+| V. Encerramento | Setembro | |
 
 ## 3.5 Controle de Mudanças 
 O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:  
