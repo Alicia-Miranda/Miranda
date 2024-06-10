@@ -94,39 +94,20 @@ Conforme a equipe aprende através de pesquisas, também é possível fazer leit
 | Equipe de Testes | Realizações de testes e garantia de qualidade|
 
 ## 3.3 Fases, Atividades e Cronograma 
-**Fase I: Backlog do Produto – :**  
-Atividades: 
-- Identificar suas funcionalidades. 
-- Priorização e desmembramento em tarefas. 
-- Estimativa de esforço 
-  
-**Fase II: Especificação de Requisitos– Maio/Junho:**
+**Fase I: Backlog do Produto :**  
+
+**Fase II: Especificação de Requisitos – Maio/Junho:**
 - Requisitos funcionais. 
 - Requisitos não funcionais. 
 - Regras de Negócio. 
 
-**Fase III: Inspeção – :**
-- Revisão de documentos. 
-- Revisão em conjunto. 
-- Identificação de erros.   
+**Fase III: Inspeção :**   
 
-**Fase IV: Modelagem e Arquitetura – :**
-- Modelagem de Domínio. 
-- Definição da Arquitetura. 
-- Diagrama de classes e componentes. 
-  
-**Fase V: Desing de Interface – :**
-- Esboços das interfaces principais. 
-- Protótipos. 
-- Teste de usabilidade. 
-- Design visual. 
+**Fase IV: Modelagem e Arquitetura :**
+
+**Fase V: Desing de Interface :**
  
-**Fase VI: Conclusão – :**
-- Testes finais. 
-- Documentação. 
-- Entrega. 
-- Avaliação. 
-  
+**Fase VI: Conclusão :**
 
 ## 3.4 Entregas de cada Fase 
 | Fase  | Mês | Entregável |
