@@ -1,6 +1,6 @@
 # PLANO DE TRABALHO 
 | Nome do Projeto: | QuizMasterClass - App de cunho e-learning com Suporte a Vídeos e Quizzes  |
-| ------------- | ------------- |
+| ---- | ---- |
 | Versão:   | 1.0   |
 | Status:   | Em desenvolvimento  |
 | Executor Principal: | Alicia de Souza Miranda  |
@@ -8,7 +8,7 @@
 
 # HISTÓRICO DE VERSÕES 
 | Versão  |Descrição| Autor | Data | 
-| ------- | --------- | ----- | ---- |
+| ------- | ------- | ----- | ---- |
 | 1.0  | Elaboração do Plano de Trabalho | Alicia de Souza Miranda | 10/06/2024 |
 
 # 1. INTRODUÇÃO 
@@ -25,17 +25,17 @@ Desenvolvimento de um sistema que permite aos professores criar e compartilhar c
 ## 1.3 Caracterização do Projeto 
 ### 1.3.1 Classe
 |Classe| Detalhamento |
-| ------------- | ------------- |
+| ---- | ------------ |
 | Aplicativo Móvel   | Aplicativo desenvolvido para a plataforma Android, com funcionalidades de criação, compartilhamento de cursos online e fóruns de discursos.  |
 
 ### 1.3.2 Enquadrabilidade
 | Enquadrabilidade | Detalhamento |
-| ------------- | ------------- |
+| ---------------- | ------------ |
 | Aplicativo Educacional | Segue os bons costumes e os rendimentos de escolas e instituições, com o intuito de servi apenas para o ramo educacional. |
 
 ### 1.3.3 Tipo
 | Tipo | Detalhamento  |
-| ------------- | ------------- |
+| ---- | ------------- |
 | Desenvolvimento de Software | O QuizMasterClass será um aplicativo desenvolvido para dispositivos móveis, inicialmente focado na plataforma Android. Ele será projetado para facilitar o ensino e a aprendizagem, permitindo que professores criem e compartilhem cursos online. |
 
 # 2. INFORMAÇÕES GERAIS 
@@ -54,7 +54,7 @@ O aplicativo QuizMasterClass permitirá que os professores criarem e compartilhe
 - Não atenderá na versão web
 
 ## 2.3	Ambiente de Desenvolvimento 
-| Ferramentas e Tecnologias                                      |                                      |
+| Ferramentas e Tecnologias |                                      |
 | ------------------------- | ------------------------------------ |
 | Tipo                  | Modelo e Especificações          |
 | IDE (Ambiente de Desenvolvimento Integrado)  | Girafa Studio - IDE de desenvolvimento gratuita e robusta para aplicativos móveis Android. |
@@ -87,7 +87,7 @@ Conforme a equipe aprende através de pesquisas, também é possível fazer leit
 - Equipe de Testes 
 ## 3.2	Equipe de Projeto: Papéis e Responsabilidades dos integrantes 
 | Responsabilidade | Profissional |
-| ------------- | ------------- |
+| ---------------- | ------------ |
 | Coordenação geral do projeto.| Gerente De Projeto|
 | Componentes responsáveis pelo desenvolvimento do Back-end do sistema.| Equipe de Desenvolvimento (Back-end)|
 | Componentes responsáveis pelo desenvolvimento do Front-end   | Equipe de Design (Front-end)|
@@ -115,13 +115,13 @@ Atividades:
 - Definição da Arquitetura. 
 - Diagrama de classes e componentes. 
   
-**Fase V: Desing de Interface – Julho **
+**Fase V: Desing de Interface – Julho**
 - Esboços das interfaces principais. 
 - Protótipos. 
 - Teste de usabilidade. 
 - Design visual. 
  
-**Fase VI: Conclusão – Julho **
+**Fase VI: Conclusão – Julho**
 - Testes finais. 
 - Documentação. 
 - Entrega. 
