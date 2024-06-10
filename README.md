@@ -88,40 +88,40 @@ Conforme a equipe aprende através de pesquisas, também é possível fazer leit
 ## 3.2	Equipe de Projeto: Papéis e Responsabilidades dos integrantes 
 | Responsabilidade | Profissional |
 | ---------------- | ------------ |
-| Coordenação geral do projeto.| Gerente De Projeto|
-| Componentes responsáveis pelo desenvolvimento do Back-end do sistema.| Equipe de Desenvolvimento (Back-end)|
-| Componentes responsáveis pelo desenvolvimento do Front-end   | Equipe de Design (Front-end)|
+| Coordenação geral do projeto| Gerente De Projeto|
+| Componentes responsáveis pelo desenvolvimento do Back-end do sistema| Equipe de Desenvolvimento (Back-end)|
+| Componentes responsáveis pelo desenvolvimento do Front-end | Equipe de Design (Front-end)|
 | Equipe de Testes | Realizações de testes e garantia de qualidade|
 
 ## 3.3 Fases, Atividades e Cronograma 
-**Fase I: Backlog do Produto – Junho:**  
+**Fase I: Backlog do Produto – :**  
 Atividades: 
 - Identificar suas funcionalidades. 
 - Priorização e desmembramento em tarefas. 
 - Estimativa de esforço 
   
-**Fase II: Especificação de Requisitos– Junho:**
+**Fase II: Especificação de Requisitos– Maio/Junho:**
 - Requisitos funcionais. 
 - Requisitos não funcionais. 
 - Regras de Negócio. 
 
-**Fase III: Inspeção – Junho:**
+**Fase III: Inspeção – :**
 - Revisão de documentos. 
 - Revisão em conjunto. 
 - Identificação de erros.   
 
-**Fase IV: Modelagem e Arquitetura – Julho:**
+**Fase IV: Modelagem e Arquitetura – :**
 - Modelagem de Domínio. 
 - Definição da Arquitetura. 
 - Diagrama de classes e componentes. 
   
-**Fase V: Desing de Interface – Julho**
+**Fase V: Desing de Interface – :**
 - Esboços das interfaces principais. 
 - Protótipos. 
 - Teste de usabilidade. 
 - Design visual. 
  
-**Fase VI: Conclusão – Julho**
+**Fase VI: Conclusão – :**
 - Testes finais. 
 - Documentação. 
 - Entrega. 
@@ -131,12 +131,12 @@ Atividades:
 ## 3.4 Entregas de cada Fase 
 | Fase  | Mês | Entregável |
 | ----- | --- | ---------- |
-| I. Backlog do Produto  | Junho  | |
-| II.Especificação de Requisitos | Junho   | |
-| III. Inspeção | Junho  | |
-| IV. Modelagem e Arquitetura  | Julho  | |
-| V. Design de Interface  | Julho  | |
-| VI. Conlusão | Julho | |
+| I. Backlog do Produto  | | |
+| II.Especificação de Requisitos | Maio/Junho | Personas, Histórias do Usuário e Requisitos do sistema |
+| III. Inspeção |  | |
+| IV. Modelagem e Arquitetura  | | |
+| V. Design de Interface  | | |
+| VI. Conlusão | | |
 
 ## 3.5 Controle de Mudanças 
 O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:  
@@ -145,6 +145,6 @@ O monitoramento e controle do escopo do projeto serão realizados a partir das s
 - Todas as entregas devem ser acordadas pela equipe do projeto e entidades parceiras. 
 - Todas as informações devem estar atualizadas no escopo e não-escopo. 
 - Nenhum trabalho fora do escopo do projeto deve ser feito. 
-- Solicitações de mudança no escopo do projeto devem ser efetivamente comunicadas e compreendidas.  
+- As solicitações de mudança no escopo do projeto devem ser efetivamente comunicadas e compreendidas.  
  
 
